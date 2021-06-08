@@ -1,2 +1,2 @@
-# raspberry_pi_-pico
-Raspberry Pi Pico相關教學
+# raspberry pi pico
+Raspberry Pi Pico範例程式碼
